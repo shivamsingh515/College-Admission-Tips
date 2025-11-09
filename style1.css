@@ -1,0 +1,86 @@
+nav{
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: coral;
+    color: white;
+}
+nav a{
+    text-decoration: color-mix(in hwb longer hue,  percentage, color percentage);
+    color: black;
+    padding: 10px;
+    font-size: 18px;
+}
+nav select{
+    padding: 5px;
+    font-size: 16px;
+}   
+nav input[type="search"]{
+    padding: 5px;
+    font-size: 16px;
+}
+nav input[type="submit"]{
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: coral;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+nav input[type="submit"]:hover{
+    background-color: darkorange;
+}
+nav div{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+h1{
+    font-size: 30px;
+    color: rgb(102, 102, 203);
+    background-color: rgb(238, 238, 23);
+    text-align: center;
+    padding: 5px;
+}
+p{
+    font-size: 30px;
+    color: rgb(217, 224, 224);
+    background-color: rgb(35, 198, 203);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(202, 148, 189);
+   
+    background-image: url(https://www.graduateprogram.org/wp-content/uploads/2020/10/Oct-30-Tips-for-Nailing-the-College-Admission-Process_web-1024x734.jpg);
+}
+
+.ss{
+    font-size: 20px;
+    color: rgb(249, 5, 221);
+    font-size: 20px;
+
+    text-align: center;
+    padding: 0px;
+    margin: 0;
+
+}
+form{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+
+
+
+   
+
+
+
